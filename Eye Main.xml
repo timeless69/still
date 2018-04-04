@@ -1,0 +1,92 @@
+<dir>
+<title>I.C.U New Movies</title>
+<tmdb>list/https://www.themoviedb.org/list/50674</tmdb>
+</dir>
+
+<xml>
+  <dir>
+    <title>movies</title>
+    <link>https://raw.githubusercontent.com/lost50/I.C.U/master/icu%20movies.xml</link>
+  </dir>
+  
+</xml>
+  <dir>
+    <title>TV</title>
+    <link>https://raw.githubusercontent.com/lost50/I.C.U/master/icu%20tv.xml</link>
+  </dir>
+</xml>
+
+<dir>
+  <title>Movie Trialers</title>
+  <link>https://raw.githubusercontent.com/lost50/I.C.U/master/movie%20trialers.xml</link>
+</dir>
+
+<dir>
+  <title>E.O.D</title>
+  <link>https://raw.githubusercontent.com/lost50/I.C.U/master/eod%20movie%20pack.xml</link>
+</dir>
+
+<dir>
+  <title>Kung Fu Movies</title>
+  <link>https://raw.githubusercontent.com/lost50/I.C.U/master/movie%20trialers.xml</link>
+</dir>
+
+<xml>
+<dir>
+  <title>Hit List</title>
+  <link>https://raw.githubusercontent.com/lost50/I.C.U/master/icu%20hit%20list.xml</link>
+</dir>
+
+<dir>
+<title>Stage Plays</title>
+<tmdb>list/https://www.themoviedb.org/list/50618</tmdb>
+</dir>
+
+<xml>
+  <dir>
+    <title>Urban Movies</title>
+    <link>https://raw.githubusercontent.com/lost50/I.C.U/master/icu%20urban.xml</link>
+  </dir>
+</xml>
+ 
+ <dir>
+  <title>Action List</title>
+  <link>https://raw.githubusercontent.com/lost50/I.C.U/master/icu%20action%20list.xml</link>
+</dir>
+
+ 
+ <dir>
+  <title>Hood Movies</title>
+  <link>https://raw.githubusercontent.com/lost50/collector/master/icu%20hood.xml</link>
+</dir>
+
+<xml>
+  <dir>
+    <title>Actors</title>
+    <link>https://raw.githubusercontent.com/lost50/I.C.U/master/Urban%20actors.xml</link>
+  </dir>
+
+<xml>
+  <dir>
+    <title>Movies 247</title>
+    <link>https://raw.githubusercontent.com/lost50/collector/master/movies247.xml</link>
+  </dir>
+</xml>
+
+<xml>
+  <dir>
+    <title>247 TV</title>
+    <link>https://raw.githubusercontent.com/lost50/collector/master/247-tv%20(1).xml</link>
+  </dir>
+</xml>
+
+<dir>
+<title>Search</title>
+<tmdb>search</tmdb>
+</dir>
+
+<plugin>
+<name>Settings</name>
+<link>plugin://plugin.video.eye/?action=openSettings</link>
+<thumbnail></thumbnail>
+</plugin>
